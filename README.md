@@ -1,33 +1,25 @@
-### Hi there, I'm Brendan 👋
+### Hi there, I'm Brendan 👋 
+## My story
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m a civil engineer EIT
+- 🌱 A web-developer
+- 👯 And also a father
 
-## I'm a civil engineer, developer, and father who is currently using/learning
+## Currently working with/learning
 
-- Next/React
-- AWS
-- MongoDB
--  Creating api endpoints with Django or Strapi
-- Anything practical and interesting
+- 🤔 Next/React
+- 💬 AWS
+- 📫 MongoDB
+- 😄 Creating api endpoints with Django or Strapi
+- ⚡ Anything practical and interesting
 
 
-## I would like to,
+## I would like to
 
 - Collaborate with another developer
 - Continue to learn **programming**, **computer-science**, and how it all *works*
 
 ### Languages and Tools:
-
-
-<br />
-<br />
 
 ---
 
