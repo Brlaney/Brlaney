@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Brlaney42/Brlaney42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there, I'm Brendan 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,31 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## I'm a civil engineer, developer, and father who is currently using/learning
+
+- Next/React
+- AWS
+- MongoDB
+-  Creating api endpoints with Django or Strapi
+- Anything practical and interesting
+
+
+## I would like to,
+
+- Collaborate with another developer
+- Continue to learn **programming**, **computer-science**, and how it all *works*
+
+### Languages and Tools:
+
+
+<br />
+<br />
+
+---
+
+[website]: https://twitter.com/brendan_webdev
+[twitter]: https://twitter.com/brendan_webdev
+[youtube]: https://youtube.com/brendan
+[instagram]: https://instagram.com/brlaney94
+[linkedin]: https://linkedin.com/in/brendan
