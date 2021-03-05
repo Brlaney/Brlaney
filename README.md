@@ -31,9 +31,9 @@
   <img src="https://user-images.githubusercontent.com/64326462/110136681-f9d8bb00-7d9d-11eb-9993-66e1099256e2.png" hspace="15" align="center" alt="python" height="65" />
   <img src="https://user-images.githubusercontent.com/64326462/110135830-f7299600-7d9c-11eb-95f3-d839814af091.png" hspace="15" align="center" alt="javascript" height="70" />
   <img src="https://user-images.githubusercontent.com/64326462/110136837-2a205980-7d9e-11eb-9630-182b5d50867a.png" hspace="15" align="center" alt="typescript" width="52" height="52" />
-  <img src="https://user-images.githubusercontent.com/64326462/110134442-67371c80-7d9b-11eb-91b8-803cd84fa20c.png" alt="chartjs" hspace="25" width="62" height="62" />
-  <img src="https://user-images.githubusercontent.com/64326462/110136652-efb6bc80-7d9d-11eb-9bd5-68dc1ce4bf87.png" alt="plotly" hspace="25" width="62" height="62" />
-  <img src="https://user-images.githubusercontent.com/64326462/110135604-b3369100-7d9c-11eb-8a44-c3da34e27b46.png" hspace="25" alt="Django" width="106.8" height="37.2" />
+  <img src="https://user-images.githubusercontent.com/64326462/110134442-67371c80-7d9b-11eb-91b8-803cd84fa20c.png" hspace="25" align="center" alt="chartjs" width="62" height="62" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136652-efb6bc80-7d9d-11eb-9bd5-68dc1ce4bf87.png" hspace="25" align="center" alt="plotly"  width="62" height="62" />
+  <img src="https://user-images.githubusercontent.com/64326462/110135604-b3369100-7d9c-11eb-8a44-c3da34e27b46.png" hspace="25" align="center" alt="Django" width="106.8" height="37.2" />
 </p>
 </br>
 <p align="center">
