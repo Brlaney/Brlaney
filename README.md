@@ -53,7 +53,7 @@
 ### Javascript / Frontend Frameworks
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64326462/110136596-de6db000-7d9d-11eb-83f4-bbbe0237fa14.png" alt="nodeJS" hspace="25" width="100" height="100" />
+  <img src="https://user-images.githubusercontent.com/64326462/110148710-27783100-7dab-11eb-9dd8-483e20f1d0e7.png" alt="nodeJS" hspace="25" height="62" />
   <img src="https://user-images.githubusercontent.com/64326462/110136560-d31a8480-7d9d-11eb-89fc-e832673bc458.png" alt="NextJS" hspace="25" width="102.4" height="61.8" />
   <img src="https://user-images.githubusercontent.com/64326462/110136731-065d1380-7d9e-11eb-830b-39abd4812e1a.png" alt="ReactJS" hspace="25" />
   <img src="https://user-images.githubusercontent.com/64326462/110136891-3c01fc80-7d9e-11eb-8dd4-ab0713b8938f.png" alt="vuejs" hspace="25" width="64" height="55.5" />
