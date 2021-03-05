@@ -27,9 +27,9 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64326462/110136681-f9d8bb00-7d9d-11eb-9993-66e1099256e2.png" alt="python">
-  <img src="https://user-images.githubusercontent.com/64326462/110135830-f7299600-7d9c-11eb-95f3-d839814af091.png" alt="javascript">
-  <img src="https://user-images.githubusercontent.com/64326462/110136837-2a205980-7d9e-11eb-9630-182b5d50867a.png" alt="typescript">
+  <img src="https://user-images.githubusercontent.com/64326462/110136681-f9d8bb00-7d9d-11eb-9993-66e1099256e2.png" alt="python" width="62" height="62">
+  <img src="https://user-images.githubusercontent.com/64326462/110135830-f7299600-7d9c-11eb-95f3-d839814af091.png" alt="javascript" width="62" height="62">
+  <img src="https://user-images.githubusercontent.com/64326462/110136837-2a205980-7d9e-11eb-9630-182b5d50867a.png" alt="typescript" width="62" height="62">
 </p>
 
 ---
@@ -37,10 +37,10 @@
 ## Tools
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64326462/110134442-67371c80-7d9b-11eb-91b8-803cd84fa20c.png" alt="chartjs">
-  <img src="https://user-images.githubusercontent.com/64326462/110136652-efb6bc80-7d9d-11eb-9bd5-68dc1ce4bf87.png" alt="plotly">
-  <img src="https://user-images.githubusercontent.com/64326462/110136481-bb430080-7d9d-11eb-8363-79e6db9cb9e3.png" alt="matLab">
-  <img src="https://user-images.githubusercontent.com/64326462/110136596-de6db000-7d9d-11eb-83f4-bbbe0237fa14.png" alt="nodeJS">
+  <img src="https://user-images.githubusercontent.com/64326462/110134442-67371c80-7d9b-11eb-91b8-803cd84fa20c.png" alt="chartjs" width="62" height="62">
+  <img src="https://user-images.githubusercontent.com/64326462/110136652-efb6bc80-7d9d-11eb-9bd5-68dc1ce4bf87.png" alt="plotly" width="62" height="62">
+  <img src="https://user-images.githubusercontent.com/64326462/110136481-bb430080-7d9d-11eb-8363-79e6db9cb9e3.png" alt="matLab" width="64" height="57.5">
+  <img src="https://user-images.githubusercontent.com/64326462/110136596-de6db000-7d9d-11eb-83f4-bbbe0237fa14.png" alt="nodeJS" width="100" height="100">
   <img src="https://user-images.githubusercontent.com/64326462/110136560-d31a8480-7d9d-11eb-89fc-e832673bc458.png" alt="NextJS">
   <img src="https://user-images.githubusercontent.com/64326462/110136731-065d1380-7d9e-11eb-830b-39abd4812e1a.png" alt="ReactJS">
   <img src="https://user-images.githubusercontent.com/64326462/110136891-3c01fc80-7d9e-11eb-8dd4-ab0713b8938f.png" alt="vuejs">
