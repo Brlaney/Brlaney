@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/64326462/110130533-1e7d6480-7d97-11eb-9551-0989d9fc86fd.jpg" alt="ttu" align="right" width="100" height="100">
+# Hi there, I'm Brendan 👋
 
-# Hi there, I'm Brendan 👋 
+<img src="https://user-images.githubusercontent.com/64326462/110130533-1e7d6480-7d97-11eb-9551-0989d9fc86fd.jpg" alt="ttu" align="right" width="100" height="100">
 
 ## My story
 
