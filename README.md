@@ -62,11 +62,11 @@
 ## API's I have used:
 
 <p align="center">  
-  <img src="https://user-images.githubusercontent.com/64326462/110136760-1117a880-7d9e-11eb-959f-54610d1f610e.png" alt="spotify" width="106.8" height="37.2">
-  <img src="https://user-images.githubusercontent.com/64326462/110136813-2260b500-7d9e-11eb-9c77-1c0bdb361f25.png" alt="twitter" width="106.8" height="87.9">
-  <img src="https://user-images.githubusercontent.com/64326462/110135657-c2b5da00-7d9c-11eb-8726-ad8b5abd86fc.png" alt="facebook" width="90" height="90">
-  <img src="https://user-images.githubusercontent.com/64326462/110135727-d8c39a80-7d9c-11eb-95f2-dbe33b686b14.png" alt="instagram" width="90" height="90">
-  <img src="https://user-images.githubusercontent.com/64326462/110137216-98651c00-7d9e-11eb-8267-65e9423fe42c.png" alt="google" width="85" height="90">
+  <img src="https://user-images.githubusercontent.com/64326462/110136760-1117a880-7d9e-11eb-959f-54610d1f610e.png" alt="spotify" width="53.4" height="18.6">
+  <img src="https://user-images.githubusercontent.com/64326462/110136813-2260b500-7d9e-11eb-9c77-1c0bdb361f25.png" alt="twitter" width="53.4" height="44">
+  <img src="https://user-images.githubusercontent.com/64326462/110135657-c2b5da00-7d9c-11eb-8726-ad8b5abd86fc.png" alt="facebook" width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/64326462/110135727-d8c39a80-7d9c-11eb-95f2-dbe33b686b14.png" alt="instagram" width="50" height="50">
+  <img src="https://user-images.githubusercontent.com/64326462/110137216-98651c00-7d9e-11eb-8267-65e9423fe42c.png" alt="google" width="42.5" height="45">
 </p>
 
 ---
