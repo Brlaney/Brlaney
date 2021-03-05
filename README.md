@@ -77,8 +77,8 @@
   <img src="https://user-images.githubusercontent.com/64326462/110136760-1117a880-7d9e-11eb-959f-54610d1f610e.png" hspace="25" alt="spotify" height="44" />
   <img src="https://user-images.githubusercontent.com/64326462/110136813-2260b500-7d9e-11eb-9c77-1c0bdb361f25.png" hspace="25" alt="twitter" width="53.4" height="44" />
   <img src="https://user-images.githubusercontent.com/64326462/110135657-c2b5da00-7d9c-11eb-8726-ad8b5abd86fc.png" hspace="25" alt="facebook" width="50" height="50" />
-  <img src="https://user-images.githubusercontent.com/64326462/110135727-d8c39a80-7d9c-11eb-95f2-dbe33b686b14.png" hspace="25" alt="instagram" width="50" height="50" />
-  <img src="https://user-images.githubusercontent.com/64326462/110137216-98651c00-7d9e-11eb-8267-65e9423fe42c.png" hspace="25" alt="google" width="42.5" height="45" />
+  <img src="https://user-images.githubusercontent.com/64326462/110135727-d8c39a80-7d9c-11eb-95f2-dbe33b686b14.png" hspace="25" alt="instagram" height="54" />
+  <img src="https://user-images.githubusercontent.com/64326462/110137216-98651c00-7d9e-11eb-8267-65e9423fe42c.png" hspace="25" alt="google" height="45" />
 </p>
 
 </br>
@@ -86,10 +86,10 @@
 ### and more..
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64326462/110136450-b2eac580-7d9d-11eb-9679-6d85cca5cc78.png" hspace="25" alt="mailchimp" height="45" />
-  <img src="https://user-images.githubusercontent.com/64326462/110136620-e62d5480-7d9d-11eb-8613-b891a6c46ce3.png" hspace="25" alt="paypal" height="45" />
-  <img src="https://user-images.githubusercontent.com/64326462/110136987-550aad80-7d9e-11eb-8bcf-9405b2603c64.png" hspace="25" alt="wix" height="70" />
-  <img src="https://user-images.githubusercontent.com/64326462/110137021-5dfb7f00-7d9e-11eb-8d27-083d48c36fe0.png" hspace="25" alt="wordpress" width="100" height="75" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136450-b2eac580-7d9d-11eb-9679-6d85cca5cc78.png" hspace="25" alt="mailchimp" height="40" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136620-e62d5480-7d9d-11eb-8613-b891a6c46ce3.png" hspace="25" alt="paypal" height="40" />
+  <img src="https://user-images.githubusercontent.com/64326462/110149182-bbe29380-7dab-11eb-846c-96a7e7e842c7.png" hspace="25" alt="wix" height="70" />
+  <img src="https://user-images.githubusercontent.com/64326462/110149139-aff6d180-7dab-11eb-9e52-cfd0340b1f39.png" hspace="25" alt="wordpress" width="100" height="75" />
   <img src="https://user-images.githubusercontent.com/64326462/110136259-79b25580-7d9d-11eb-835a-247bf48b5458.png" hspace="25" alt="aws" width="100" height="38.7" />
 </p>
 
