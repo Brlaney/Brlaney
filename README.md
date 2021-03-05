@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/64326462/110130533-1e7d6480-7d97-11eb-9551-0989d9fc86fd.jpg" align="right">
 ### Hi there, I'm Brendan 👋 
 ## My story
 
