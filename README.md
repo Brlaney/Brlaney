@@ -85,7 +85,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64326462/110136864-34425800-7d9e-11eb-920d-71d962ceae9d.png" hspace="25" alt="uikit" height="68" />
   <img src="https://user-images.githubusercontent.com/64326462/110133305-2a1e5a80-7d9a-11eb-83ef-277f6c44f321.png" alt="bootstrap" hspace="25" width="64" height="64" />
-  <img src="https://user-images.githubusercontent.com/64326462/110136791-1aa11080-7d9e-11eb-8356-6ad2c6e9bbf5.png" hspace="25" alt="tailwind" style="vertical-align: middle" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136791-1aa11080-7d9e-11eb-8356-6ad2c6e9bbf5.png" hspace="25" alt="tailwind" style="vertical-align: middle;" />
 </p>
 
 </br>
