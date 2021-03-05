@@ -1,4 +1,7 @@
-### Hi there, I'm Brendan 👋 
+<img src="https://user-images.githubusercontent.com/64326462/110130533-1e7d6480-7d97-11eb-9551-0989d9fc86fd.jpg" align="right" width="100" height="100">
+
+# Hi there, I'm Brendan 👋 
+
 ## My story
 
 - 🔭 I’m a civil engineer EIT
@@ -19,12 +22,16 @@
 - Collaborate with another developer
 - Continue to learn **programming**, **computer-science**, and how it all *works*
 
-### Languages and Tools:
+## Languages and Tools:
 
 ---
 
 [website]: https://twitter.com/brendan_webdev
 [twitter]: https://twitter.com/brendan_webdev
+[youtube]: https://youtube.com/brendan
+[instagram]: https://instagram.com/brlaney94
+[linkedin]: https://linkedin.com/in/brendan
+/twitter.com/brendan_webdev
 [youtube]: https://youtube.com/brendan
 [instagram]: https://instagram.com/brlaney94
 [linkedin]: https://linkedin.com/in/brendan
