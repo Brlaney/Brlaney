@@ -24,15 +24,13 @@
 
 ## Languages
 
----
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64326462/110136681-f9d8bb00-7d9d-11eb-9993-66e1099256e2.png" alt="python" width="62" height="62">
+  - Python <img src="https://user-images.githubusercontent.com/64326462/110136681-f9d8bb00-7d9d-11eb-9993-66e1099256e2.png" align="right" alt="python" width="62" height="62">
   <img src="https://user-images.githubusercontent.com/64326462/110135830-f7299600-7d9c-11eb-95f3-d839814af091.png" alt="javascript" width="62" height="62">
   <img src="https://user-images.githubusercontent.com/64326462/110136837-2a205980-7d9e-11eb-9630-182b5d50867a.png" alt="typescript" width="52" height="52">
 </p>
 
----
 
 ## Tools
 
@@ -47,7 +45,6 @@
   <img src="https://user-images.githubusercontent.com/64326462/110135604-b3369100-7d9c-11eb-8a44-c3da34e27b46.png" alt="Django" width="106.8" height="37.2">
 </p>
 
----
 
 ## CSS Frameworks
 
@@ -57,7 +54,6 @@
   <img src="https://user-images.githubusercontent.com/64326462/110136791-1aa11080-7d9e-11eb-8356-6ad2c6e9bbf5.png" alt="tailwind">
 </p>
 
----
 
 ## API's I have used:
 
