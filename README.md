@@ -90,7 +90,7 @@
   <img src="https://user-images.githubusercontent.com/64326462/110136620-e62d5480-7d9d-11eb-8613-b891a6c46ce3.png" hspace="25" alt="paypal" height="40" />
   <img src="https://user-images.githubusercontent.com/64326462/110149182-bbe29380-7dab-11eb-846c-96a7e7e842c7.png" hspace="25" alt="wix" height="45" />
   <img src="https://user-images.githubusercontent.com/64326462/110149139-aff6d180-7dab-11eb-9e52-cfd0340b1f39.png" hspace="25" alt="wordpress" height="45" />
-  <img src="https://user-images.githubusercontent.com/64326462/110136259-79b25580-7d9d-11eb-835a-247bf48b5458.png" hspace="25" alt="aws" width="100" height="38.7" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136259-79b25580-7d9d-11eb-835a-247bf48b5458.png" vspace="25" hspace="25" alt="aws" width="100" height="38.7" />
 </p>
 
 </br>
