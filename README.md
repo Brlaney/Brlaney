@@ -38,23 +38,23 @@
 </p>
 </br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64326462/110136481-bb430080-7d9d-11eb-8363-79e6db9cb9e3.png" alt="matLab" hspace="25" width="64" height="57.5" />
-  <img  hspace="25" alt="autocad" width="" height="" />
-  <img  hspace="25" alt="civil3d" width="" height="" />
-  <img  hspace="25" alt="sketchup" width="" height="" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136481-bb430080-7d9d-11eb-8363-79e6db9cb9e3.png" hspace="20" alt="matLab" height="55" />
+  <img src="https://user-images.githubusercontent.com/64326462/110152080-45479500-7daf-11eb-9213-574cd0d8694c.png" hspace="20" alt="autocad" height="60" />
+  <img src="https://user-images.githubusercontent.com/64326462/110152248-7c1dab00-7daf-11eb-8728-ac027cad8091.png" hspace="20" alt="civil3d" height="" />
+  <img src="https://user-images.githubusercontent.com/64326462/110152317-92c40200-7daf-11eb-8e07-2c9053e82d15.png" hspace="20" alt="sketchup" height="" />
 </p>
 </br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64326462/110148710-27783100-7dab-11eb-9dd8-483e20f1d0e7.png" alt="nodeJS" hspace="25" height="62" />
-  <img src="https://user-images.githubusercontent.com/64326462/110136560-d31a8480-7d9d-11eb-89fc-e832673bc458.png" alt="NextJS" hspace="25" width="102.4" height="61.8" />
-  <img src="https://user-images.githubusercontent.com/64326462/110136731-065d1380-7d9e-11eb-830b-39abd4812e1a.png" alt="ReactJS" hspace="25" />
-  <img src="https://user-images.githubusercontent.com/64326462/110136891-3c01fc80-7d9e-11eb-8dd4-ab0713b8938f.png" alt="vuejs" hspace="25" width="64" height="55.5" />
+  <img src="https://user-images.githubusercontent.com/64326462/110148710-27783100-7dab-11eb-9dd8-483e20f1d0e7.png" hspace="25" alt="nodeJS" height="62" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136560-d31a8480-7d9d-11eb-89fc-e832673bc458.png" hspace="25" alt="NextJS" width="102.4" height="61.8" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136731-065d1380-7d9e-11eb-830b-39abd4812e1a.png" hspace="25" alt="ReactJS" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136891-3c01fc80-7d9e-11eb-8dd4-ab0713b8938f.png" hspace="25" alt="vuejs" width="64" height="55.5" />
 </p>
 </br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64326462/110136864-34425800-7d9e-11eb-920d-71d962ceae9d.png" hspace="25" alt="uikit" height="68" />
-  <img src="https://user-images.githubusercontent.com/64326462/110133305-2a1e5a80-7d9a-11eb-83ef-277f6c44f321.png" alt="bootstrap" hspace="25" width="64" height="64" />
-  <img src="https://user-images.githubusercontent.com/64326462/110136791-1aa11080-7d9e-11eb-8356-6ad2c6e9bbf5.png" hspace="25" alt="tailwind" style="vertical-align: middle;" />
+  <img src="https://user-images.githubusercontent.com/64326462/110133305-2a1e5a80-7d9a-11eb-83ef-277f6c44f321.png" hspace="25" alt="bootstrap" height="64" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136791-1aa11080-7d9e-11eb-8356-6ad2c6e9bbf5.png" hspace="25" alt="tailwind" />
 </p>
 </br>
 <p align="center">
