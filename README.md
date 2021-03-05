@@ -55,7 +55,7 @@
   <img src="https://user-images.githubusercontent.com/64326462/110136864-34425800-7d9e-11eb-920d-71d962ceae9d.png" alt="uikit" width="90" height="90">
   <img src="https://user-images.githubusercontent.com/64326462/110133305-2a1e5a80-7d9a-11eb-83ef-277f6c44f321.png" alt="bootstrap" width="64" height="64">
   <img src="https://user-images.githubusercontent.com/64326462/110136791-1aa11080-7d9e-11eb-8356-6ad2c6e9bbf5.png" alt="tailwind">
-  <img src="https://user-images.githubusercontent.com/64326462/110135685-ccd7d880-7d9c-11eb-914b-eb0a673c48f9.png" alt="halfmoon" width="64" height="64">
+  <img src="https://user-images.githubusercontent.com/64326462/110135685-ccd7d880-7d9c-11eb-914b-eb0a673c48f9.png" alt="halfmoon">
 </p>
 
 ---
