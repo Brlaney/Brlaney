@@ -4,7 +4,7 @@
 
 ## My story
 
-- 🔭 I’m a civil engineer EIT
+- I’m an *EIT* licensed **Civil Engineer**
 - 🌱 A web-developer
 - 👯 And also a father
 
@@ -22,9 +22,16 @@
 - Collaborate with another developer
 - Continue to learn **programming**, **computer-science**, and how it all *works*
 
+---
+
+<div align="center">
+
 ### Programming languages
 
-<p float="center">
+
+</div>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/64326462/110136681-f9d8bb00-7d9d-11eb-9993-66e1099256e2.png" align="center" alt="python" height="65" />
   <img src="https://user-images.githubusercontent.com/64326462/110135830-f7299600-7d9c-11eb-95f3-d839814af091.png" align="center" alt="javascript" height="70" />
   <img src="https://user-images.githubusercontent.com/64326462/110136837-2a205980-7d9e-11eb-9630-182b5d50867a.png" align="center" alt="typescript" width="52" height="52" />
