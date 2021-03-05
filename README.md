@@ -27,6 +27,7 @@
 
 # Tools I utilize
 
+</br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64326462/110136681-f9d8bb00-7d9d-11eb-9993-66e1099256e2.png" hspace="15" align="center" alt="python" height="65" />
   <img src="https://user-images.githubusercontent.com/64326462/110135830-f7299600-7d9c-11eb-95f3-d839814af091.png" hspace="15" align="center" alt="javascript" height="70" />
@@ -71,7 +72,6 @@
   <img src="https://user-images.githubusercontent.com/64326462/110149139-aff6d180-7dab-11eb-9e52-cfd0340b1f39.png" hspace="17" alt="wordpress" height="45" />
   <img src="https://user-images.githubusercontent.com/64326462/110136259-79b25580-7d9d-11eb-835a-247bf48b5458.png" hspace="17" alt="aws" width="100" height="38.7" />
 </p>
-
 </br>
 
 ---
