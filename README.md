@@ -50,8 +50,6 @@
   <img src="https://user-images.githubusercontent.com/64326462/110136791-1aa11080-7d9e-11eb-8356-6ad2c6e9bbf5.png" hspace="25" alt="tailwind" />
 </p>
 
-<hr>
-
 ## Social-media API's, plugins, general sites, and more
 
 </br>
@@ -72,7 +70,6 @@
 </p>
 
 </br>
-<hr>
 
 ## Engineering design / drafting
 
