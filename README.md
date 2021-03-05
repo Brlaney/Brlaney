@@ -25,7 +25,7 @@
 
 <hr>
 
-# Tools I utilize
+## Web-development tools
 
 </br>
 <p align="center">
@@ -35,13 +35,6 @@
   <img src="https://user-images.githubusercontent.com/64326462/110134442-67371c80-7d9b-11eb-91b8-803cd84fa20c.png" hspace="25" align="center" alt="chartjs" width="62" height="62" />
   <img src="https://user-images.githubusercontent.com/64326462/110136652-efb6bc80-7d9d-11eb-9bd5-68dc1ce4bf87.png" hspace="25" align="center" alt="plotly"  width="62" height="62" />
   <img src="https://user-images.githubusercontent.com/64326462/110135604-b3369100-7d9c-11eb-8a44-c3da34e27b46.png" hspace="25" align="center" alt="Django" width="106.8" height="37.2" />
-</p>
-</br>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/64326462/110136481-bb430080-7d9d-11eb-8363-79e6db9cb9e3.png" hspace="20" alt="matLab" height="55" />
-  <img src="https://user-images.githubusercontent.com/64326462/110152718-1120a400-7db0-11eb-9835-dc873c4d5f25.png" hspace="20" alt="autocad" height="55" />
-  <img src="https://user-images.githubusercontent.com/64326462/110152769-21388380-7db0-11eb-8a2c-f22c445eb168.png" hspace="20" alt="civil3d" height="55" />
-  <img src="https://user-images.githubusercontent.com/64326462/110152317-92c40200-7daf-11eb-8e07-2c9053e82d15.png" hspace="20" alt="sketchup" height="55" />
 </p>
 </br>
 <p align="center">
@@ -56,8 +49,14 @@
   <img src="https://user-images.githubusercontent.com/64326462/110133305-2a1e5a80-7d9a-11eb-83ef-277f6c44f321.png" hspace="25" alt="bootstrap" height="64" />
   <img src="https://user-images.githubusercontent.com/64326462/110136791-1aa11080-7d9e-11eb-8356-6ad2c6e9bbf5.png" hspace="25" alt="tailwind" />
 </p>
+
+<hr>
+
+## Social-media API's, plugins, general sites, and more
+
 </br>
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/64326462/110136259-79b25580-7d9d-11eb-835a-247bf48b5458.png" hspace="17" alt="aws" height="44" />
   <img src="https://user-images.githubusercontent.com/64326462/110136760-1117a880-7d9e-11eb-959f-54610d1f610e.png" hspace="25" alt="spotify" height="44" />
   <img src="https://user-images.githubusercontent.com/64326462/110136813-2260b500-7d9e-11eb-9c77-1c0bdb361f25.png" hspace="25" alt="twitter" width="53.4" height="44" />
   <img src="https://user-images.githubusercontent.com/64326462/110135657-c2b5da00-7d9c-11eb-8726-ad8b5abd86fc.png" hspace="25" alt="facebook" width="50" height="50" />
@@ -70,6 +69,18 @@
   <img src="https://user-images.githubusercontent.com/64326462/110136620-e62d5480-7d9d-11eb-8613-b891a6c46ce3.png" hspace="17" alt="paypal" height="40" />
   <img src="https://user-images.githubusercontent.com/64326462/110149182-bbe29380-7dab-11eb-846c-96a7e7e842c7.png" hspace="17" alt="wix" height="45" />
   <img src="https://user-images.githubusercontent.com/64326462/110149139-aff6d180-7dab-11eb-9e52-cfd0340b1f39.png" hspace="17" alt="wordpress" height="45" />
-  <img src="https://user-images.githubusercontent.com/64326462/110136259-79b25580-7d9d-11eb-835a-247bf48b5458.png" hspace="17" alt="aws" width="100" height="38.7" />
+</p>
+
+</br>
+<hr>
+
+## Engineering design / drafting
+
+</br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64326462/110152718-1120a400-7db0-11eb-9835-dc873c4d5f25.png" hspace="15" alt="autocad" height="55" />
+  <img src="https://user-images.githubusercontent.com/64326462/110152769-21388380-7db0-11eb-8a2c-f22c445eb168.png" hspace="15" alt="civil3d" height="55" />
+  <img src="https://user-images.githubusercontent.com/64326462/110152317-92c40200-7daf-11eb-8e07-2c9053e82d15.png" hspace="25" alt="sketchup" height="55" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136481-bb430080-7d9d-11eb-8363-79e6db9cb9e3.png" hspace="25" alt="matLab" height="55" />
 </p>
 </br>
