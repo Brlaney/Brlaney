@@ -22,13 +22,16 @@
 - Collaborate with another developer
 - Continue to learn **programming**, **computer-science**, and how it all *works*
 
----
+
+<hr>
+
+# Tools I utilize
 
 <div align="center">
 
-### Programming languages
+### Languages
 
-
+</br>
 </div>
 
 <p align="center">
@@ -39,7 +42,12 @@
 
 </br>
 
+<div align="center">
+
 ### Tools
+
+</br>
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64326462/110134442-67371c80-7d9b-11eb-91b8-803cd84fa20c.png" alt="chartjs" hspace="25" width="62" height="62" />
@@ -50,7 +58,13 @@
 
 </br>
 
-### Javascript / Frontend Frameworks
+<div align="center">
+
+### Frontend
+
+</br>
+
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64326462/110148710-27783100-7dab-11eb-9dd8-483e20f1d0e7.png" alt="nodeJS" hspace="25" height="62" />
@@ -61,7 +75,12 @@
 
 </br>
 
-### CSS Frameworks
+<div align="center">
+
+### Styling
+
+</br>
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64326462/110136864-34425800-7d9e-11eb-920d-71d962ceae9d.png" hspace="25" alt="uikit" height="68" />
@@ -71,7 +90,12 @@
 
 </br>
 
+<div align="center">
+
 ### API's
+
+</br>
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64326462/110136760-1117a880-7d9e-11eb-959f-54610d1f610e.png" hspace="25" alt="spotify" height="44" />
@@ -83,7 +107,12 @@
 
 </br>
 
+<div align="center">
+
 ### and more..
+
+</br>
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64326462/110136450-b2eac580-7d9d-11eb-9679-6d85cca5cc78.png" hspace="17" alt="mailchimp" height="40" />
