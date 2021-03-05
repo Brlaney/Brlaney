@@ -26,7 +26,10 @@
 
 
 <p align="center">
-  - Python <img src="https://user-images.githubusercontent.com/64326462/110136681-f9d8bb00-7d9d-11eb-9993-66e1099256e2.png" align="right" alt="python" width="62" height="62">
+
+- Python 
+
+  <img src="https://user-images.githubusercontent.com/64326462/110136681-f9d8bb00-7d9d-11eb-9993-66e1099256e2.png" align="right" alt="python" width="62" height="62">
   <img src="https://user-images.githubusercontent.com/64326462/110135830-f7299600-7d9c-11eb-95f3-d839814af091.png" alt="javascript" width="62" height="62">
   <img src="https://user-images.githubusercontent.com/64326462/110136837-2a205980-7d9e-11eb-9630-182b5d50867a.png" alt="typescript" width="52" height="52">
 </p>
