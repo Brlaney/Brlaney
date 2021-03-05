@@ -49,6 +49,7 @@
   <img src="https://user-images.githubusercontent.com/64326462/110133305-2a1e5a80-7d9a-11eb-83ef-277f6c44f321.png" hspace="25" alt="bootstrap" height="64" />
   <img src="https://user-images.githubusercontent.com/64326462/110136791-1aa11080-7d9e-11eb-8356-6ad2c6e9bbf5.png" hspace="25" alt="tailwind" />
 </p>
+</br>
 
 ## Social-media API's, plugins, general sites, and more
 
@@ -68,7 +69,6 @@
   <img src="https://user-images.githubusercontent.com/64326462/110149182-bbe29380-7dab-11eb-846c-96a7e7e842c7.png" hspace="17" alt="wix" height="45" />
   <img src="https://user-images.githubusercontent.com/64326462/110149139-aff6d180-7dab-11eb-9e52-cfd0340b1f39.png" hspace="17" alt="wordpress" height="45" />
 </p>
-
 </br>
 
 ## Engineering design / drafting
