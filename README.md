@@ -2,11 +2,12 @@
 
 <img src="https://user-images.githubusercontent.com/64326462/110130533-1e7d6480-7d97-11eb-9551-0989d9fc86fd.jpg" alt="ttu" align="right" width="100" height="100" />
 
-## My story
-
-- I’m an *EIT* licensed **Civil Engineer**
+- :man_student: I’m an *EIT* licensed **Civil Engineer**
 - 🌱 A web-developer
 - 👯 And also a father
+
+## My story
+
 
 ## Currently working with/learning
 
