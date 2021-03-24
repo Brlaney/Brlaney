@@ -70,7 +70,7 @@ Don't hesitate to reach out and chat, collaborate, or anything else you may need
   <img src="https://user-images.githubusercontent.com/64326462/110133305-2a1e5a80-7d9a-11eb-83ef-277f6c44f321.png" hspace="25" alt="bootstrap" height="35" />
 </p>
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/64326462/110136791-1aa11080-7d9e-11eb-8356-6ad2c6e9bbf5.png" hspace="23" alt="tailwind" height="13" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136791-1aa11080-7d9e-11eb-8356-6ad2c6e9bbf5.png" hspace="5" alt="tailwind" height="13" />
 </p>
 </br>
 
