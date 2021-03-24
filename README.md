@@ -32,6 +32,11 @@ Don't hesitate to reach out and chat, collaborate, or anything else you may need
 
 ### Languages
 
+|  Languages   |   Frameworks   |   and more..   |
+|   :---:      |     :---:      |      :---:     |
+| git status   | git status     |   git status   |
+| git diff     | git diff       |   git diff     |
+
 <p align="left">
   <img src="https://user-images.githubusercontent.com/64326462/110136681-f9d8bb00-7d9d-11eb-9993-66e1099256e2.png" hspace="15" align="center" alt="python" height="40" />
 </p>
