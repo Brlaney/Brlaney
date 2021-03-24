@@ -33,16 +33,16 @@ Don't hesitate to reach out and chat, collaborate, or anything else you may need
 ### Languages
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/64326462/110136681-f9d8bb00-7d9d-11eb-9993-66e1099256e2.png" hspace="12" align="center" alt="python" height="40" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136681-f9d8bb00-7d9d-11eb-9993-66e1099256e2.png" hspace="15" align="center" alt="python" height="40" />
 </p>
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/64326462/110135830-f7299600-7d9c-11eb-95f3-d839814af091.png" hspace="12" align="center" alt="javascript" height="40" />
+  <img src="https://user-images.githubusercontent.com/64326462/110135830-f7299600-7d9c-11eb-95f3-d839814af091.png" hspace="15" align="center" alt="javascript" height="40" />
 </p>
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/64326462/110136837-2a205980-7d9e-11eb-9630-182b5d50867a.png" hspace="18" align="center" alt="typescript" height="30" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136837-2a205980-7d9e-11eb-9630-182b5d50867a.png" hspace="21" align="center" alt="typescript" height="30" />
 </p>
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/64326462/110135604-b3369100-7d9c-11eb-8a44-c3da34e27b46.png" hspace="7" align="center" alt="Django" width="53" height="20" />
+  <img src="https://user-images.githubusercontent.com/64326462/110135604-b3369100-7d9c-11eb-8a44-c3da34e27b46.png" hspace="10" align="center" alt="Django" width="53" height="20" />
 </p>
 
 <p align="center">
