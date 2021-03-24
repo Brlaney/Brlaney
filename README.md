@@ -50,14 +50,27 @@ Don't hesitate to reach out and chat, collaborate, or anything else you may need
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/64326462/110135604-b3369100-7d9c-11eb-8a44-c3da34e27b46.png" hspace="10" align="center" alt="Django" width="53" height="20" />
+</p>
+<p align="left">
   <img src="https://user-images.githubusercontent.com/64326462/110148710-27783100-7dab-11eb-9dd8-483e20f1d0e7.png" hspace="10" alt="nodeJS" height="40" />
+</p>
+<p align="left">
   <img src="https://user-images.githubusercontent.com/64326462/110136560-d31a8480-7d9d-11eb-89fc-e832673bc458.png" hspace="10" alt="NextJS" width="50" height="30" />
+</p>
+<p align="left">
   <img src="https://user-images.githubusercontent.com/64326462/110136731-065d1380-7d9e-11eb-830b-39abd4812e1a.png" hspace="10" alt="ReactJS" height="30" />
+</p>
+<p align="left">
   <img src="https://user-images.githubusercontent.com/64326462/110136891-3c01fc80-7d9e-11eb-8dd4-ab0713b8938f.png" hspace="10" alt="vuejs" width="32" height="28" />
-
+</p>
+<p align="left">
   <img src="https://user-images.githubusercontent.com/64326462/110136864-34425800-7d9e-11eb-920d-71d962ceae9d.png" hspace="10" alt="uikit" height="35" />
+</p>
+<p align="left">
   <img src="https://user-images.githubusercontent.com/64326462/110133305-2a1e5a80-7d9a-11eb-83ef-277f6c44f321.png" hspace="10" alt="bootstrap" height="35" />
-  <img src="https://user-images.githubusercontent.com/64326462/110136791-1aa11080-7d9e-11eb-8356-6ad2c6e9bbf5.png" hspace="10" alt="tailwind" height="30" />
+</p>
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/64326462/110136791-1aa11080-7d9e-11eb-8356-6ad2c6e9bbf5.png" hspace="10" alt="tailwind" height="20" />
 </p>
 </br>
 
