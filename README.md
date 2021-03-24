@@ -1,27 +1,30 @@
 # Hi there, I'm Brendan 👋
 
-<img src="https://user-images.githubusercontent.com/64326462/110130533-1e7d6480-7d97-11eb-9551-0989d9fc86fd.jpg" alt="ttu" align="right" width="100" height="100" />
-
-- :man_student: I’m an *EIT* licensed **Civil Engineer**
-- 🌱 A web-developer
+- :man_student: I’m an *EI* certified **Civil Engineer**
+- 🌱 An aspiring web-developer
 - 👯 And also a father
 
-## My story
+## Why I aspire to become a web-developer
 
+It's January 2020, all is normal in the world (mostly), I had an engineering internship lined up for the summer which had also offered me a job for when I graduate in December. As COVID-19 became a reality for the entire world and the year progressed, I think it's fair to say that we all had a rough go at it in 2020. Understandably, I lost my internship and job opportunity as the summer approached which left me craving to learn something new in my free time.
+<br>
+Long story short, I got motivated to improve my programming abilities which solely consisted of **Matlab** & **C++** at the time. I purchased the book [Crash Course in Python](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by [Eric Matthes](https://twitter.com/ehmatthes) and fell in love with python, Django, working with data and APIs and quickly started pushing myself to start learning frontend javascript frameworks, php, typescript, and so much more!
+<br>
+Don't hesitate to reach out and chat, collaborate, or anything else you may need assistance with I'd be glad to help. Thanks for taking the time to checkout my profile!
 
 ## Currently working with/learning
 
-- 🤔 Next/React
+- 🤔 Next & React
 - 💬 AWS
 - 📫 MongoDB
-- 😄 Creating api endpoints with Django or Strapi
+- 😄 Creating api's with Strapi & Amplify
 - ⚡ Anything practical and interesting
 
 
-## I would like to
+## I would like to..
 
-- Collaborate with another developer
-- Continue to learn **programming**, **computer-science**, and how it all *works*
+- Collaborate with another developer (hit me up!)
+- Continue to learn *forever* and **ever**
 
 
 <hr>
