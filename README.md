@@ -32,11 +32,6 @@ Don't hesitate to reach out and chat, collaborate, or anything else you may need
 
 ### Languages
 
-|  Languages   |   Frameworks   |   and more..   |
-|   :---:      |     :---:      |      :---:     |
-| git status   | git status     |   git status   |
-| git diff     | git diff       |   git diff     |
-
 <p align="left">
   <img src="https://user-images.githubusercontent.com/64326462/110136681-f9d8bb00-7d9d-11eb-9993-66e1099256e2.png" hspace="15" align="center" alt="python" height="40" />
 </p>
@@ -71,31 +66,28 @@ Don't hesitate to reach out and chat, collaborate, or anything else you may need
 </p>
 </br>
 
-## Social-media API's, plugins, general sites, and more
-
-</br>
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/64326462/110136259-79b25580-7d9d-11eb-835a-247bf48b5458.png" hspace="17" alt="aws" height="44" />
-  <img src="https://user-images.githubusercontent.com/64326462/110136813-2260b500-7d9e-11eb-9c77-1c0bdb361f25.png" hspace="25" alt="twitter" width="53.4" height="44" />
-  <img src="https://user-images.githubusercontent.com/64326462/110135657-c2b5da00-7d9c-11eb-8726-ad8b5abd86fc.png" hspace="25" alt="facebook" width="50" height="50" />
-  <img src="https://user-images.githubusercontent.com/64326462/110135727-d8c39a80-7d9c-11eb-95f2-dbe33b686b14.png" hspace="25" alt="instagram" height="54" />
-  <img src="https://user-images.githubusercontent.com/64326462/110136760-1117a880-7d9e-11eb-959f-54610d1f610e.png" hspace="25" alt="spotify" height="44" />
-</p>
-</br>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/64326462/110136450-b2eac580-7d9d-11eb-9679-6d85cca5cc78.png" hspace="17" alt="mailchimp" height="40" />
-  <img src="https://user-images.githubusercontent.com/64326462/110136620-e62d5480-7d9d-11eb-8613-b891a6c46ce3.png" hspace="17" alt="paypal" height="40" />
-  <img src="https://user-images.githubusercontent.com/64326462/110149182-bbe29380-7dab-11eb-846c-96a7e7e842c7.png" hspace="17" alt="wix" height="45" />
-  <img src="https://user-images.githubusercontent.com/64326462/110149139-aff6d180-7dab-11eb-9e52-cfd0340b1f39.png" hspace="17" alt="wordpress" height="45" />
-</p>
-</br>
-
-## Others..
+### & more..
 
 </br>
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/64326462/110152718-1120a400-7db0-11eb-9835-dc873c4d5f25.png" hspace="15" alt="autocad" height="48" />
-  <img src="https://user-images.githubusercontent.com/64326462/110152769-21388380-7db0-11eb-8a2c-f22c445eb168.png" hspace="15" alt="civil3d" height="55" />
-  <img src="https://user-images.githubusercontent.com/64326462/110152317-92c40200-7daf-11eb-8e07-2c9053e82d15.png" hspace="25" alt="sketchup" height="55" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136259-79b25580-7d9d-11eb-835a-247bf48b5458.png" hspace="10" alt="aws" height="35" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136813-2260b500-7d9e-11eb-9c77-1c0bdb361f25.png" hspace="10" alt="twitter" width="45" height="35" />
+  <img src="https://user-images.githubusercontent.com/64326462/110135657-c2b5da00-7d9c-11eb-8726-ad8b5abd86fc.png" hspace="10" alt="facebook" height="35" />
+  <img src="https://user-images.githubusercontent.com/64326462/110135727-d8c39a80-7d9c-11eb-95f2-dbe33b686b14.png" hspace="10" alt="instagram" height="35" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136760-1117a880-7d9e-11eb-959f-54610d1f610e.png" hspace="10" alt="spotify" height="35" />
+</p>
+</br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64326462/110136450-b2eac580-7d9d-11eb-9679-6d85cca5cc78.png" hspace="10" alt="mailchimp" height="35" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136620-e62d5480-7d9d-11eb-8613-b891a6c46ce3.png" hspace="10" alt="paypal" height="35" />
+  <img src="https://user-images.githubusercontent.com/64326462/110149182-bbe29380-7dab-11eb-846c-96a7e7e842c7.png" hspace="10" alt="wix" height="35" />
+  <img src="https://user-images.githubusercontent.com/64326462/110149139-aff6d180-7dab-11eb-9e52-cfd0340b1f39.png" hspace="10" alt="wordpress" height="35" />
+</p>
+</br>
+
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/64326462/110152769-21388380-7db0-11eb-8a2c-f22c445eb168.png" hspace="10" alt="civil3d" height="35" />
+  <img src="https://user-images.githubusercontent.com/64326462/110152317-92c40200-7daf-11eb-8e07-2c9053e82d15.png" hspace="10" alt="sketchup" height="35" />
 </p>
 </br>
