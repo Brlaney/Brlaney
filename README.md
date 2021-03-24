@@ -50,19 +50,14 @@ Don't hesitate to reach out and chat, collaborate, or anything else you may need
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/64326462/110135604-b3369100-7d9c-11eb-8a44-c3da34e27b46.png" hspace="10" align="center" alt="Django" width="53" height="20" />
-</p>
+  <img src="https://user-images.githubusercontent.com/64326462/110148710-27783100-7dab-11eb-9dd8-483e20f1d0e7.png" hspace="10" alt="nodeJS" height="40" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136560-d31a8480-7d9d-11eb-89fc-e832673bc458.png" hspace="10" alt="NextJS" width="50" height="30" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136731-065d1380-7d9e-11eb-830b-39abd4812e1a.png" hspace="10" alt="ReactJS" height="30" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136891-3c01fc80-7d9e-11eb-8dd4-ab0713b8938f.png" hspace="10" alt="vuejs" width="32" height="28" />
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/64326462/110148710-27783100-7dab-11eb-9dd8-483e20f1d0e7.png" hspace="25" alt="nodeJS" height="62" />
-  <img src="https://user-images.githubusercontent.com/64326462/110136560-d31a8480-7d9d-11eb-89fc-e832673bc458.png" hspace="25" alt="NextJS" width="102.4" height="61.8" />
-  <img src="https://user-images.githubusercontent.com/64326462/110136731-065d1380-7d9e-11eb-830b-39abd4812e1a.png" hspace="25" alt="ReactJS" />
-  <img src="https://user-images.githubusercontent.com/64326462/110136891-3c01fc80-7d9e-11eb-8dd4-ab0713b8938f.png" hspace="25" alt="vuejs" width="64" height="55.5" />
-</p>
-</br>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/64326462/110136864-34425800-7d9e-11eb-920d-71d962ceae9d.png" hspace="25" alt="uikit" height="68" />
-  <img src="https://user-images.githubusercontent.com/64326462/110133305-2a1e5a80-7d9a-11eb-83ef-277f6c44f321.png" hspace="25" alt="bootstrap" height="64" />
-  <img src="https://user-images.githubusercontent.com/64326462/110136791-1aa11080-7d9e-11eb-8356-6ad2c6e9bbf5.png" hspace="25" alt="tailwind" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136864-34425800-7d9e-11eb-920d-71d962ceae9d.png" hspace="10" alt="uikit" height="35" />
+  <img src="https://user-images.githubusercontent.com/64326462/110133305-2a1e5a80-7d9a-11eb-83ef-277f6c44f321.png" hspace="10" alt="bootstrap" height="35" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136791-1aa11080-7d9e-11eb-8356-6ad2c6e9bbf5.png" hspace="10" alt="tailwind" height="30" />
 </p>
 </br>
 
@@ -77,7 +72,7 @@ Don't hesitate to reach out and chat, collaborate, or anything else you may need
   <img src="https://user-images.githubusercontent.com/64326462/110136760-1117a880-7d9e-11eb-959f-54610d1f610e.png" hspace="10" alt="spotify" height="28" />
   <img src="https://user-images.githubusercontent.com/64326462/110136450-b2eac580-7d9d-11eb-9679-6d85cca5cc78.png" hspace="10" alt="mailchimp" height="30" />
   <img src="https://user-images.githubusercontent.com/64326462/110136620-e62d5480-7d9d-11eb-8613-b891a6c46ce3.png" hspace="10" alt="paypal" height="30" />
-  <img src="https://user-images.githubusercontent.com/64326462/110149182-bbe29380-7dab-11eb-846c-96a7e7e842c7.png" hspace="10" alt="wix" height="35" />
+  <img src="https://user-images.githubusercontent.com/64326462/110149182-bbe29380-7dab-11eb-846c-96a7e7e842c7.png" hspace="10" alt="wix" height="28" />
   <img src="https://user-images.githubusercontent.com/64326462/110149139-aff6d180-7dab-11eb-9e52-cfd0340b1f39.png" hspace="10" alt="wordpress" height="35" />
   <img src="https://user-images.githubusercontent.com/64326462/110152769-21388380-7db0-11eb-8a2c-f22c445eb168.png" hspace="10" alt="civil3d" height="35" />
   <img src="https://user-images.githubusercontent.com/64326462/110152317-92c40200-7daf-11eb-8e07-2c9053e82d15.png" hspace="10" alt="sketchup" height="35" />
