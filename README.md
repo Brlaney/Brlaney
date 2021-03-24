@@ -39,7 +39,7 @@ Don't hesitate to reach out and chat, collaborate, or anything else you may need
   <img src="https://user-images.githubusercontent.com/64326462/110135830-f7299600-7d9c-11eb-95f3-d839814af091.png" hspace="12" align="center" alt="javascript" height="40" />
 </p>
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/64326462/110136837-2a205980-7d9e-11eb-9630-182b5d50867a.png" hspace="12" align="center" alt="typescript" height="30" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136837-2a205980-7d9e-11eb-9630-182b5d50867a.png" hspace="16" align="center" alt="typescript" height="30" />
 </p>
 <p align="left">
   <img src="https://user-images.githubusercontent.com/64326462/110135604-b3369100-7d9c-11eb-8a44-c3da34e27b46.png" hspace="5" align="center" alt="Django" width="53" height="20" />
