@@ -42,7 +42,7 @@ Don't hesitate to reach out and chat, collaborate, or anything else you may need
   <img src="https://user-images.githubusercontent.com/64326462/110136837-2a205980-7d9e-11eb-9630-182b5d50867a.png" hspace="21" align="center" alt="typescript" height="30" />
 </p>
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/64326462/110136481-bb430080-7d9d-11eb-8363-79e6db9cb9e3.png" hspace="15" alt="matLab" height="40" />
+  <img src="https://user-images.githubusercontent.com/64326462/110136481-bb430080-7d9d-11eb-8363-79e6db9cb9e3.png" hspace="15" alt="matLab" height="35" />
 </p>
 </br>
 
