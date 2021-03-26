@@ -15,10 +15,10 @@
 
 ## 2021 goals..
 
-- Collaborate with another developer (hit me up!)
-- Make more connections in the tech world
-- Always push myself to become a better person
-- Leave a positive impression on others
+- 🤳 Collaborate with another developer (hit me up!)
+- 🦾 Make more connections in the tech world
+- 💪 Always push myself to become a better person
+- ♥ Leave a positive impression on others
 
 ## What lead me to learn how to program?
 
