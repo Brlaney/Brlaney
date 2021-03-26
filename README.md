@@ -1,8 +1,8 @@
 # Hi there, I'm Brendan 👋
 
-- :man_student: I’m an *EI* certified **Civil Engineer**
+- 👨‍🎓 I’m an *EI* certified **Civil Engineer**
 - 🌱 An aspiring web-developer
-- 👯 And also a father
+- 👨‍👦 And also a father
 
 
 ## Currently working with & learning..
