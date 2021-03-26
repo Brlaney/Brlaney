@@ -5,7 +5,7 @@
 - 👯 And also a father
 
 
-## Currently working with/learning
+## Currently working with & learning..
 
 - 🤔 Next & React
 - 💬 AWS
@@ -20,7 +20,7 @@
 - Always push myself to become a better person
 - Leave a positive impression on others
 
-## Why I aspire to become a web-developer
+## What lead me to learn how to program?
 
 It's January 2020, all is normal in the world (mostly), I had an engineering internship lined up for the summer which had also offered me a job for when I graduate in December. As COVID-19 became a reality for the entire world and the year progressed, I think it's fair to say that we all had a rough go at it in 2020. Understandably, I lost my internship and job opportunity as the summer approached. I quickly turned my dissapointment into a drive to improve a second skillset. 
 </br>
