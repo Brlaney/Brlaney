@@ -1,6 +1,6 @@
 # Hi there, I'm Brendan 👋
 
-- 👨‍🎓 I’m an *EI* certified **Civil Engineer**
+- 👨‍🎓 I’m an *EIT* certified **Civil Engineer**
 - 🌱 An aspiring web-developer
 - 👨‍👦 And also a father
 
