@@ -35,4 +35,5 @@ Don't hesitate to reach out and chat, collaborate, or anything else you may need
 
 <hr>
 
-![Languages-frameworks-and_more](https://user-images.githubusercontent.com/64326462/112707894-163fb300-8e85-11eb-843d-62b1a0c5a208.PNG)
+![Github_profile_readme](https://user-images.githubusercontent.com/64326462/112737054-f912ef00-8f2d-11eb-859f-159ba2e2ae54.png)
+
