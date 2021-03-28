@@ -22,13 +22,13 @@
 
 ## What lead me to learn how to program?
 
-It's January 2020, all is normal in the world (mostly), I had an engineering internship lined up for the summer which had also offered me a job for when I graduate in December. As COVID-19 became a reality for the entire world and the year progressed, I understandably lost that offer. I quickly turned my dissapointment into a drive to improve in and learn a second skillset. 
+It's January 2020, all is normal in the world (mostly), I had an engineering internship lined up for the summer along with a job offer for when I graduated in December. As COVID-19 progressed, I understandably lost that offer. I quickly turned my dissapointment into a drive to improve in and learn a second skillset.
 </br>
 </br>
-I had just finished an engineering course that allowed us to use MatLab to impliment something called the *matrix displacement method*. During this course a light switch went off in my head and I started to see the endless value in **loops** to iterate over repetative calculations. I quickly realized the power of programming when I was able to instantly solve a problem that would otherwise take an hour. 
+I had just finished an engineering course that relied heavily on MatLab to impliment something called the *matrix displacement method*. The types of problems we solved in this class were monotonous, repetitive, and were begging to be solved by functions and loops. My first successful MatLab program was a very satisfying experience that took a lot of time to finish. By the end of the semester I started to think more confidently and my mind would start wandering about applying simple programming concepts to things other than my civil engineering course.
 </br>
 </br>
-This lead me to purchasing the book [Crash Course in Python](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by [Eric Matthes](https://twitter.com/ehmatthes) and fell in love with python, Django, working with data and APIs and quickly started pushing myself deeper into the wonderful world of computer science. 
+This lead me to purchasing the book [Crash Course in Python](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by [Eric Matthes](https://twitter.com/ehmatthes). This book really got me fired up about programming and helped push me out of my MatLab confort zone.
 </br>
 </br>
 Don't hesitate to reach out and chat, collaborate, or anything else you may need assistance with I'd be glad to help. Thanks for taking the time to checkout my profile!
