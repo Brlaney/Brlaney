@@ -1,4 +1,4 @@
-# Hi there, I'm Brendan 👋
+# Welcome to my GitHub profile 👋
 
 - 👨‍🎓 I’m an *EIT* certified **Civil Engineer**
 - 🌱 An aspiring web-developer
