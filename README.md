@@ -1,10 +1,12 @@
-# Welcome to my GitHub profile 👋
+# Hello, my name is Brendan 👋
 
 </br>
 
-- 👨‍🎓 I’m an *EIT* certified **Civil Engineer**
-- 🌱 An aspiring web-developer
-- 👨‍👦 And also a father
+## Who Am I?
+
+- 👨‍🎓 B.S. **Civil Engineering** 
+- 🌱 Self-taught **Web Developer**
+- 👨‍👦 and most importantly, I'm a **Dad**
 
 ## My contributions
 
