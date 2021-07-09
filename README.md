@@ -6,10 +6,10 @@
 
 - 👨‍🎓 B.S. **Civil Engineering** 
 - 🌱 Self-taught **Web Developer**
-- 👨‍👦 and most importantly, I'm a **Dad**
-
-## My contributions
+- 👨‍👦 and most importantly, a **Dad**
 
 </br>
 
-- 💻 **Material-Ui**. Basic spelling & grammar in the upcoming latest versions Roadmap page for their website. 
+## My contributions
+
+- 💻 **Material-Ui**. Basic spelling & grammar from version 4 fixed for version 5 on their website's **Roadmap** page. 
