@@ -1,7 +1,5 @@
 # Hello, my name is Brendan 👋
 
-</br>
-
 ## Who Am I?
 
 - 🔧 **Engineering** 
@@ -12,4 +10,4 @@
 
 ## My contributions
 
-- [Material-Ui](https://next.material-ui.com/). Basic spelling & grammar from version 4 fixed for version 5 on their website's **Roadmap** page. 
+- [Material-Ui](https://next.material-ui.com/). Basic spelling & grammar from version 4 fixed for their @next version [Roadmap](https://next.material-ui.com/discover-more/roadmap/) page. 
