@@ -2,9 +2,8 @@
 
 ## Who Am I?
 
-- 🔧 **Engineering** 
+- 🔧 **Engineer** 
 - 💻 **Web Developer**
-- 👨‍👦 **Dad**
 
 </br>
 
