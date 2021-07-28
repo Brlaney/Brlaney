@@ -1,9 +1,7 @@
 # Hello, my name is Brendan 👋
 
-## Who Am I?
-
-- 🔧 **Engineer** 
-- 💻 **Web Developer**
+## 🔧 **Engineer** 
+## 💻 **Web Developer**
 
 </br>
 
