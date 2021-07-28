@@ -1,8 +1,8 @@
 # Hello, my name is Brendan 👋
 
 <div>
-  <h2>🔧 **Engineer**</h2> 
-  <h2>💻 **Web Developer**</h2>
+  <h2>🔧 Engineer</h2> 
+  <h2>💻 Web Developer</h2>
 </div>
 
 ## My contributions
