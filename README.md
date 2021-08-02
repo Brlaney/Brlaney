@@ -8,6 +8,7 @@
 
 ## Connect with me
 
+* Portfolio of work: [brendans-portfolio.com](https://brendans-portfolio.com)
 * Email: <brlaney@outlook.com>
 * Twitter: [brendan_webdev](https://twitter.com/Brendan_webdev)
 * Instagram: [brlaney94](https://www.instagram.com/brlaney94/)
