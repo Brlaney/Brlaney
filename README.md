@@ -14,6 +14,7 @@ I am a U.S. based Engineer who creates **responsive**, **accessible**, and **mod
 * Database migrations & deployment
 * Security and SSL certification
 * Lead generation
+* Search engine optimization (SEO)
 * Social-media API services
 
 ## What I've *Done*
