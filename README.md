@@ -21,6 +21,7 @@ I am a U.S. based Engineer who creates **responsive**, **accessible**, and **mod
 
 * 10 years of customer service experience - Team leader, waiter, barista
 * ABET accredited B.S. in Civil Engineering (EI certified in the state of Tennessee) - Tennessee Technological University
+* Create tutorials on [Youtube](https://www.youtube.com/channel/UCg5vthplK_sUSpjotFnuUlg/featured)
 * [Material-Ui](https://github.com/mui-org/material-ui). Basic spelling & grammar fix for v5 beta [Roadmap](https://next.material-ui.com/discover-more/roadmap/) page
 
 ## Connect with me
