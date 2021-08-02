@@ -18,5 +18,5 @@
 
 ## GitHub stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=brlaney&theme=tokyonight&show_icons=true&private_count=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brlaney&theme=tokyonight&layout=compact)]()
+![Brlaney's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=brlaney&theme=tokyonight&show_icons=true&private_count=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brlaney&theme=tokyonight&layout=compact)]()
