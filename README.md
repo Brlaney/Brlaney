@@ -2,13 +2,13 @@
 
 I am a U.S. based Engineer who creates **responsive**, **accessible**, and **modern** websites & applications. 
 
-## What I do
+## What I *Do*
 
 * 💻 Web Developer
 * 🔧 Civil Engineer 
 * 👨‍👦 Father
 
-## Deliverables
+## What I *Provide*
 
 * Full-stack web & mobile apps
 * Database migrations & deployment
@@ -16,9 +16,11 @@ I am a U.S. based Engineer who creates **responsive**, **accessible**, and **mod
 * Lead generation
 * Social-media API services
 
-## My contributions
+## What I've *Done*
 
-* [Material-Ui](https://github.com/mui-org/material-ui). Basic spelling & grammar fix for v5 beta [Roadmap](https://next.material-ui.com/discover-more/roadmap/) page. 
+* 10 years of customer service experience - Team leader, waiter, barista
+* ABET accredited B.S. in Civil Engineering (EI certified in the state of Tennessee) - Tennessee Technological University
+* [Material-Ui](https://github.com/mui-org/material-ui). Basic spelling & grammar fix for v5 beta [Roadmap](https://next.material-ui.com/discover-more/roadmap/) page
 
 ## Connect with me
 
