@@ -1,14 +1,24 @@
 # Hello, my name is Brendan 👋
 
+I am a U.S. based Engineer who creates **responsive**, **accessible**, and **modern** websites & applications. 
+
 ## What I do
 
-- 💻 Web Developer
-- 🔧 Civil Engineer 
-- 👨‍👦 Father
+* 💻 Web Developer
+* 🔧 Civil Engineer 
+* 👨‍👦 Father
+
+## Deliverables
+
+* Full-stack web & mobile apps
+* Database migrations & deployment
+* Security and SSL certification
+* Lead generation
+* Social-media API services
 
 ## My contributions
 
-- [Material-Ui](https://github.com/mui-org/material-ui). Basic spelling & grammar fix for v5 beta [Roadmap](https://next.material-ui.com/discover-more/roadmap/) page. 
+* [Material-Ui](https://github.com/mui-org/material-ui). Basic spelling & grammar fix for v5 beta [Roadmap](https://next.material-ui.com/discover-more/roadmap/) page. 
 
 ## Connect with me
 
