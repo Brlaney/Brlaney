@@ -20,16 +20,16 @@ I am a U.S. based Engineer who creates **responsive**, **accessible**, and **mod
 ## What I've *Done*
 
 * 10 years of customer service experience - Team leader, waiter, barista
-* [ABET](https://www.abet.org/) accredited B.S. in Civil Engineering, EI - Tennessee Technological University
-* [Material-Ui](https://github.com/mui-org/material-ui). Basic spelling & grammar fix for v5 beta [Roadmap](https://next.material-ui.com/discover-more/roadmap/) page
+* [ABET](https://www.abet.org/){:target="_blank"} accredited B.S. in Civil Engineering, EI - Tennessee Technological University
+* [Material-Ui](https://github.com/mui-org/material-ui){:target="_blank"}. Basic spelling & grammar fix for v5 beta [Roadmap](https://next.material-ui.com/discover-more/roadmap/){:target="_blank"} page
 * Create tutorials on [Youtube](https://www.youtube.com/channel/UCg5vthplK_sUSpjotFnuUlg/featured)
 
 ## Connect with me
 
-* Portfolio of work: [brendans-portfolio.com](https://brendans-portfolio.com)
+* Portfolio of work: [brendans-portfolio.com](https://brendans-portfolio.com){:target="_blank"}
 * Email: <brlaney@outlook.com>
-* Twitter: [brendan_webdev](https://twitter.com/Brendan_webdev)
-* Instagram: [brlaney94](https://www.instagram.com/brlaney94/)
+* Twitter: [brendan_webdev](https://twitter.com/Brendan_webdev){:target="_blank"}
+* Instagram: [brlaney94](https://www.instagram.com/brlaney94/){:target="_blank"}
 
 ## GitHub stats
 
