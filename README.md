@@ -33,5 +33,5 @@ I am a U.S. based Engineer who creates **responsive**, **accessible**, and **mod
 
 ## GitHub stats
 
-![Brlaney's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=brlaney&private_count=true&theme=tokyonight&show_icons=true)
+![Brlaney's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=brlaney&theme=tokyonight&show_icons=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brlaney&theme=tokyonight&layout=compact)]()
