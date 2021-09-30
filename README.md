@@ -1,11 +1,10 @@
 <div align="center" id="top">
-    <h2 align="center">Hello, my name</h2>
-    <h1 align="center">is Brendan &#128075;</h1>
+    <h1 align="center">Hello, my name is Brendan &#128075;</h1>
+    <p align="center">
+      Recent projects are summarized below
+    </p>
 </div>
 
-<div align="center" width="100%">
-  <h2 align="justify">My recent projects and work</h2>
-</div>
 
 </br>
 
