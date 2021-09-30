@@ -1,5 +1,5 @@
 <div align="center" id="top">
-    <h1 align="center">Hello, my name is Brendan &#128075;</h1>
+    <h1 align="center" style="width: 50%;">Hello, my name is Brendan &#128075;</h1>
     <p align="center">
       Recent projects are summarized below
     </p>
