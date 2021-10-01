@@ -14,8 +14,6 @@
 - [Strapi](https://github.com/strapi/strapi)
 - [Mui-treasury](https://github.com/siriwatknp/mui-treasury)
 
-</br>
-
 ## [Matrix](https://github.com/Brlaney/mtrx)
 
 ### Project code summary
