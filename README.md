@@ -157,7 +157,7 @@
 
 <div align="center">
   <h4>English, en - figure 4.</h4>
-  <img src="https://user-images.githubusercontent.com/64326462/135640665-0facac18-1584-4cfd-899e-449bad0f3db8.png" alt="english-locale"  align="center" />
+  <img src="https://user-images.githubusercontent.com/64326462/135640665-0facac18-1584-4cfd-899e-449bad0f3db8.png" alt="english-locale"  align="center" width="480" />
 </div>
 
 </br>
@@ -165,7 +165,7 @@
 
 <div align="center">
   <h4>Spanish, es - figure 5.</h4>
-  <img src="https://user-images.githubusercontent.com/64326462/135640660-0bc5a345-0223-43fa-a837-6ea977eb34c3.png" alt="spanish-locale"  align="center" />
+  <img src="https://user-images.githubusercontent.com/64326462/135640660-0bc5a345-0223-43fa-a837-6ea977eb34c3.png" alt="spanish-locale"  align="center" width="480" />
 </div>
 
 </br>
@@ -173,7 +173,7 @@
 
 <div align="center">
   <h4>French, fr - figure 6.</h4>
-  <img src="https://user-images.githubusercontent.com/64326462/135640661-e62d3c04-3fb7-400b-b922-fdeede170e7e.png" alt="french-locale"  align="center" />
+  <img src="https://user-images.githubusercontent.com/64326462/135640661-e62d3c04-3fb7-400b-b922-fdeede170e7e.png" alt="french-locale"  align="center" width="480" />
 </div>
 
 </br>
@@ -181,7 +181,7 @@
 
 <div align="center">
   <h4>Hindi, hi - figure 7.</h4>
-  <img src="https://user-images.githubusercontent.com/64326462/135640663-45322286-c910-4d52-a4e8-d58b4800346e.png" alt="hindi-locale"  align="center" />
+  <img src="https://user-images.githubusercontent.com/64326462/135640663-45322286-c910-4d52-a4e8-d58b4800346e.png" alt="hindi-locale"  align="center" width="480" />
 </div>
 
 </br>
@@ -189,7 +189,7 @@
 
 <div align="center">
   <h4>Chinese (simplified), zh - figure 8.</h4>
-  <img src="https://user-images.githubusercontent.com/64326462/135640664-47600f2f-923d-4419-b069-206eb46ba945.png" alt="chinese-locale"  align="center" />
+  <img src="https://user-images.githubusercontent.com/64326462/135640664-47600f2f-923d-4419-b069-206eb46ba945.png" alt="chinese-locale"  align="center" width="480" />
 </div>
 
 </br>
