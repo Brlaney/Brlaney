@@ -30,8 +30,6 @@
   - `962 blanks`
   - **Sum total** `23,029 lines`
 
-</br>
-
 ### Languages
 | language | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
@@ -119,6 +117,8 @@
 | TypeScript | 16 | 1,806 | 0 | 28 | 1,834 |
 | TypeScript React | 11 | 674 | 2 | 64 | 740 |
 | SCSS | 3 | 74 | 0 | 15 | 89 |
+
+</br>
 
 ### Directories
 | path | files | code | comment | blank | total |
