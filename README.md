@@ -97,6 +97,63 @@
   <h4 style="margin-top: 0;"><b>Visualize deformations - figure 6.</b></h4>
 </div>
 
+</br>
+
+## [Mui-dash](https://github.com/Brlaney/mui-dash)
+
+### Project code summary
+
+- **Date updated:** `09-30-2021`
+- **First commit:** `08-20-2021`
+- **Directory:** `\mui-dash\src`
+- **Totals:** 
+  - `30 files`
+  - `2554 lines of code`
+  - `2 comments` 
+  - `107 blanks`
+  - **Sum total** `2,663 lines`
+
+### Languages
+| language | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| TypeScript | 16 | 1,806 | 0 | 28 | 1,834 |
+| TypeScript React | 11 | 674 | 2 | 64 | 740 |
+| SCSS | 3 | 74 | 0 | 15 | 89 |
+
+### Directories
+| path | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| src/ | 30 | 2,554 | 2 | 107 | 2,663 |
+| src/components | 8 | 493 | 1 | 39 | 533 |
+| src/lib | 16 | 1,806 | 0 | 28 | 1,834 |
+| src/pages | 3 | 181 | 1 | 25 | 207 |
+| src/scss | 3 | 74 | 0 | 15 | 89 |
+
+</br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/64326462/135653901-175348bc-dca4-43f3-8272-f685c19a37b5.gif" alt="en-es"  align="center" />
+  <h4><b>English-Spanish - figure 1.</b></h4>
+</div>
+
+</br>
+</br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/64326462/135653904-86fc9c03-3e71-4617-b405-9ea584a69ee0.gif" alt="fr-hi" />
+  <h4><b>French-Hindi - figure 2.</b></h4>
+</div>
+
+</br>
+</br>
+  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/64326462/135653905-d53b4e6a-6697-4139-bebe-2bad9f460533.gif" alt="zh-en" />
+  <h4><b>Chinese-English - figure 3.</b></h4>
+</div>
+
+</br>
+
 ## Connect with me
 
 * Email: <brlaney@outlook.com>
