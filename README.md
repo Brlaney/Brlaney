@@ -5,6 +5,14 @@
     </p>
 </div>
 
+</br>
+
+## My favorites
+
+- [Mui](https://github.com/mui-org/material-ui)
+- [Next.js](https://github.com/vercel/next.js)
+- [Strapi](https://github.com/strapi/strapi)
+- [Mui-treasury](https://github.com/siriwatknp/mui-treasury)
 
 </br>
 
