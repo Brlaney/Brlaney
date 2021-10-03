@@ -12,6 +12,9 @@
 - [Mui](https://github.com/mui-org/material-ui)
 - [Next.js](https://github.com/vercel/next.js)
 - [Strapi](https://github.com/strapi/strapi)
+- [Framer-motion](https://github.com/framer/motion)
+- [Formik](https://github.com/formium/formik)
+- [Yup](https://github.com/jquense/yup)
 - [Mui-treasury](https://github.com/siriwatknp/mui-treasury)
 
 ## [Matrix](https://github.com/Brlaney/mtrx)
