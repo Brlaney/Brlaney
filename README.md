@@ -97,7 +97,7 @@
 
 ## [Mui-dash](https://github.com/Brlaney/mui-dash)
 
-## Project code summary
+## Project code summary (of additions made)
 
 - **Date updated:** `10-03-2021`
 - **First commit:** `08-20-2021`
