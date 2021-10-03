@@ -35,8 +35,6 @@
 | SCSS | 22 | 2,004 | 9 | 106 | 2,119 |
 | TypeScript | 49 | 1,532 | 271 | 213 | 2,016 |
 
-</br>
-
 ### Directories
 | path | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
