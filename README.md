@@ -15,7 +15,6 @@
 - [Framer-motion](https://github.com/framer/motion)
 - [Formik](https://github.com/formium/formik)
 - [Yup](https://github.com/jquense/yup)
-- [Mui-treasury](https://github.com/siriwatknp/mui-treasury)
 
 ## [Matrix](https://github.com/Brlaney/mtrx)
 
