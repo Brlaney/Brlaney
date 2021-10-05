@@ -9,12 +9,24 @@
 
 ## My favorites
 
-- [Mui](https://github.com/mui-org/material-ui)
-- [Next.js](https://github.com/vercel/next.js)
-- [Strapi](https://github.com/strapi/strapi)
-- [Framer-motion](https://github.com/framer/motion)
-- [Formik](https://github.com/formium/formik)
-- [Yup](https://github.com/jquense/yup)
+- **Material-UI**
+    - [Mui - repository](https://github.com/mui-org/material-ui)
+    - [Mui-v5 documentation](https://mui.com/)
+- **Next.js**
+    - [Next repository](https://github.com/vercel/next.js)
+    - [Next documentation](https://nextjs.org/)
+- **Strapi.io**
+    - [Strapi repository](https://github.com/strapi/strapi)
+    - [Strapi documentation](https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html)
+- **Framer-motion**
+    - [Framer-motion repository](https://github.com/framer/motion)
+    - [Framer-motion API documentation](https://www.framer.com/docs/introduction/)
+- **Formik**
+  - [Formik repository](https://github.com/formium/formik)
+  - [Formik documentation](https://formik.org/docs/overview)
+- **Yup**
+  - [Yup repository](https://github.com/jquense/yup)
+  - [Yup API documentation](https://github.com/jquense/yup#api)
 
 ## [Matrix](https://github.com/Brlaney/mtrx)
 
