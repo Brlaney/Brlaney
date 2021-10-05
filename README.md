@@ -7,6 +7,22 @@
 
 </br>
 
+# Table Of Contents
+
+- [Project summary](#Summary)
+- [Project demo](#Demo)
+- [Features](#features)
+- [Quick start](#quick-start)
+  - [1. Clone repository](#1-clone-repository)
+  - [2. Install dependencies](#2-install-dependencies)
+  - [3. Start development server](#3-start-development-server)
+- [Problem solving](#problem-solving)
+- [Project code sumary](#project-code-summary)
+- [Connect with me](#connect-with-me)
+- [Contributions and issues](#contributions-and-issues)
+
+</br>
+
 ## My favorites
 
 - **Material-UI**
@@ -28,9 +44,9 @@
   - [Yup repository](https://github.com/jquense/yup)
   - [Yup API documentation](https://github.com/jquense/yup#api)
 
-## [Matrix](https://github.com/Brlaney/mtrx)
+## [Mtrx](https://github.com/Brlaney/mtrx)
 
-### Project code summary
+### Mtrx code summary
 
 - **Date updated:** `09-29-2021`
 - **First commit:** `08-20-2021`
@@ -59,6 +75,8 @@
 | src/scss | 22 | 2,019 | 9 | 107 | 2,135 |
 
 </br>
+
+## Mtrx demo
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/64326462/135329043-33ea31dd-f4df-4155-8106-c120634e2424.png" alt="Homepage-desktop"  align="center" />
@@ -109,7 +127,9 @@
 
 ## [Mui-dash](https://github.com/Brlaney/mui-dash)
 
-## Project code summary (of additions made)
+## Mui-dash code summary
+
+**Note that:** this summary is of *Of additions I made to official Mui-template*
 
 - **Date updated:** `10-03-2021`
 - **First commit:** `08-20-2021`
@@ -127,6 +147,8 @@
 | SCSS | 3 | 23 | 0 | 5 | 28 |
 
 </br>
+
+## Mui-dash demo
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/64326462/135653901-175348bc-dca4-43f3-8272-f685c19a37b5.gif" alt="en-es"  align="center" />
@@ -189,6 +211,49 @@
   <img src="https://user-images.githubusercontent.com/64326462/135640664-47600f2f-923d-4419-b069-206eb46ba945.png" alt="chinese-locale"  align="center" width="480" />
 </div>
 
+</br>
+
+## [Instagram Replica](https://github.com/Brlaney/instagram-replica)
+
+### Instagram replica code summary
+
+- **Date updated:** `10-05-2021`
+- **First commit:** `09-15-2021`
+- **Directory:** `\instagram-replica\src`
+- **Totals:** 
+  - `43 files`
+  - `1,824 lines of code`
+  - `55 comments` 
+  - `287 blanks`
+  - **Sum total** `2,166 lines`
+
+### Languages
+| language | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| TypeScript React | 34 | 1,216 | 33 | 178 | 1,427 |
+| TypeScript | 2 | 330 | 0 | 39 | 369 |
+| JSON | 4 | 73 | 22 | 2 | 97 |
+| JavaScript | 1 | 6 | 0 | 1 | 7 |
+
+### Directories
+| path | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| . | 43 | 1,824 | 55 | 287 | 2,166 |
+| src | 35 | 1,500 | 32 | 202 | 1,734 |
+| src\components | 33 | 1,170 | 32 | 163 | 1,365 |
+| src\lib | 1 | 7 | 0 | 1 | 8 |
+| src\styles | 1 | 323 | 0 | 38 | 361 |
+
+</br>
+
+### Instagram-replica demo
+
+<div align="center">
+  <img src="#" alt="instagram-replica-user-profile"  align="center" />
+  <h4><b>Instagram replica user's profile - figure 1.</b></h4>
+</div>
+
+</br>
 </br>
 
 ## Connect with me
