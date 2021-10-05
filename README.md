@@ -9,21 +9,25 @@
 
 # Table Of Contents
 
-- [Project summary](#Summary)
-- [Project demo](#Demo)
-- [Features](#features)
-- [Quick start](#quick-start)
-  - [1. Clone repository](#1-clone-repository)
-  - [2. Install dependencies](#2-install-dependencies)
-  - [3. Start development server](#3-start-development-server)
-- [Problem solving](#problem-solving)
-- [Project code sumary](#project-code-summary)
+- [Links to my favorites](#links-to-my-favorites)
+- [Mtrx](#mtrx)
+    - [Mtrx code sumary](#mtrx-code-summary)
+    - [Mtrx problem solving](#mtrx-problem-solving)
+    - [Mtrx demo](#mtrx-project-demo)
+- [Mui-dash](#mui-dash)
+    - [Mui-dash code sumary](#mui-dash-code-summary)
+    - [Mui-dash problem solving](#mui-dash-problem-solving)
+    - [Mui-dash demo](#mui-dash-project-demo)
+- [Instagram-replica](#instagram-replica)
+    - [Instagram-replica code sumary](#instagram-replica-code-summary)
+    - [Instagram-replica problem solving](#instagram-replica-problem-solving)
+    - [Instagram-replica demo](#instagram-replica-project-demo)
 - [Connect with me](#connect-with-me)
-- [Contributions and issues](#contributions-and-issues)
+- [Github stats](#github-stats)
 
 </br>
 
-## My favorites
+## Links to my favorites
 
 - **Material-UI**
     - [Mui - repository](https://github.com/mui-org/material-ui)
