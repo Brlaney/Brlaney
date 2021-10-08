@@ -257,7 +257,7 @@
 ### Instagram-replica demo
 
 <div align="center">
-  <img src="#" alt="instagram-replica-user-profile"  align="center" />
+  <img src="https://user-images.githubusercontent.com/64326462/136578530-f9e7d8b6-a6c1-43d8-ba48-17d21dfbc595.png" alt="instagram-replica-user-profile"  align="center" />
   <h4><b>Instagram replica user's profile - figure 1.</b></h4>
 </div>
 
