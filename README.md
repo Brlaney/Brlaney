@@ -1,7 +1,7 @@
 <div align="center" id="top">
     <h1 align="center" style="width: 50%;">Hello, my name is Brendan &#128075;</h1>
     <p align="center">
-      Recent projects are summarized below
+      Checkout my projects below
     </p>
 </div>
 
@@ -9,78 +9,19 @@
 
 # Table Of Contents
 
-- [Links to my favorites](#links-to-my-favorites)
-- [Mtrx](#mtrx)
-    - [Mtrx code sumary](#mtrx-code-summary)
-    - [Mtrx problem solving](#mtrx-problem-solving)
-    - [Mtrx demo](#mtrx-project-demo)
-- [Mui-dash](#mui-dash)
-    - [Mui-dash code sumary](#mui-dash-code-summary)
-    - [Mui-dash problem solving](#mui-dash-problem-solving)
-    - [Mui-dash demo](#mui-dash-project-demo)
-- [Instagram-replica](#instagram-replica)
-    - [Instagram-replica code sumary](#instagram-replica-code-summary)
-    - [Instagram-replica problem solving](#instagram-replica-problem-solving)
-    - [Instagram-replica demo](#instagram-replica-project-demo)
+- [Project Demos](#project-demos)
+  - [Mtrx Demo](#mtrx)
+  - [Mui-dash](#mui-dash)
+  - [Instagram-replica](#instagram-replica)
 - [Connect with me](#connect-with-me)
 - [Github stats](#github-stats)
 
 </br>
 
-## Links to my favorites
+## Project Demos
 
-- **Material-UI**
-    - [Mui - repository](https://github.com/mui-org/material-ui)
-    - [Mui-v5 documentation](https://mui.com/)
-- **Next.js**
-    - [Next repository](https://github.com/vercel/next.js)
-    - [Next documentation](https://nextjs.org/)
-- **Strapi.io**
-    - [Strapi repository](https://github.com/strapi/strapi)
-    - [Strapi documentation](https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html)
-- **Framer-motion**
-    - [Framer-motion repository](https://github.com/framer/motion)
-    - [Framer-motion API documentation](https://www.framer.com/docs/introduction/)
-- **Formik**
-  - [Formik repository](https://github.com/formium/formik)
-  - [Formik documentation](https://formik.org/docs/overview)
-- **Yup**
-  - [Yup repository](https://github.com/jquense/yup)
-  - [Yup API documentation](https://github.com/jquense/yup#api)
+### [Mtrx](https://github.com/Brlaney/mtrx) Demo
 
-## [Mtrx](https://github.com/Brlaney/mtrx)
-
-### Mtrx code summary
-
-- **Date updated:** `09-29-2021`
-- **First commit:** `08-20-2021`
-- **Directory:** `\mtrx\src`
-- **Totals:** 
-  - `203 files`
-  - `21,747 lines of code`
-  - `320 comments` 
-  - `962 blanks`
-  - **Sum total** `23,029 lines`
-
-### Languages
-| language | files | code | comment | blank | total |
-| :--- | ---: | ---: | ---: | ---: | ---: |
-| TypeScript React | 132 | 18,211 | 40 | 643 | 18,894 |
-| SCSS | 22 | 2,004 | 9 | 106 | 2,119 |
-| TypeScript | 49 | 1,532 | 271 | 213 | 2,016 |
-
-### Directories
-| path | files | code | comment | blank | total |
-| :--- | ---: | ---: | ---: | ---: | ---: |
-| src/ | 204 | 21,670 | 337 | 970 | 22,977 |
-| src/components | 101 | 16,286 | 40 | 421 | 16,747 |
-| src/lib | 42 | 1,474 | 274 | 196 | 1,944 |
-| src/pages | 39 | 1,891 | 14 | 246 | 2,151 |
-| src/scss | 22 | 2,019 | 9 | 107 | 2,135 |
-
-</br>
-
-## Mtrx demo
 
 </br>
 
@@ -131,30 +72,7 @@
 
 </br>
 
-## [Mui-dash](https://github.com/Brlaney/mui-dash)
-
-## Mui-dash code summary
-
-**Note that:** this summary is of *Of additions I made to official Mui-template*
-
-- **Date updated:** `10-03-2021`
-- **First commit:** `08-20-2021`
-- **Directory:** `\mui-dash\src`
-- **Total additions:** 
-  - `20 files added`
-  - `1,991 lines of code added`
-  - **Sum total** `1,991 lines of code added`
-
-### Languages
-| language | files | code | comment | blank | total |
-| :--- | ---: | ---: | ---: | ---: | ---: |
-| TypeScript | 15 | 1,741 | 0 | 23 | 1,764 |
-| TypeScript React | 2 | 180 | -1 | 20 | 199 |
-| SCSS | 3 | 23 | 0 | 5 | 28 |
-
-</br>
-
-## Mui-dash demo
+### [Mui-dash](https://github.com/Brlaney/mui-dash) Demo
 
 </br>
 
@@ -221,40 +139,7 @@
 
 </br>
 
-## [Instagram Replica](https://github.com/Brlaney/instagram-replica)
-
-### Instagram replica code summary
-
-- **Date updated:** `10-05-2021`
-- **First commit:** `09-15-2021`
-- **Directory:** `\instagram-replica\src`
-- **Totals:** 
-  - `43 files`
-  - `1,824 lines of code`
-  - `55 comments` 
-  - `287 blanks`
-  - **Sum total** `2,166 lines`
-
-### Languages
-| language | files | code | comment | blank | total |
-| :--- | ---: | ---: | ---: | ---: | ---: |
-| TypeScript React | 34 | 1,216 | 33 | 178 | 1,427 |
-| TypeScript | 2 | 330 | 0 | 39 | 369 |
-| JSON | 4 | 73 | 22 | 2 | 97 |
-| JavaScript | 1 | 6 | 0 | 1 | 7 |
-
-### Directories
-| path | files | code | comment | blank | total |
-| :--- | ---: | ---: | ---: | ---: | ---: |
-| . | 43 | 1,824 | 55 | 287 | 2,166 |
-| src | 35 | 1,500 | 32 | 202 | 1,734 |
-| src\components | 33 | 1,170 | 32 | 163 | 1,365 |
-| src\lib | 1 | 7 | 0 | 1 | 8 |
-| src\styles | 1 | 323 | 0 | 38 | 361 |
-
-</br>
-
-### Instagram-replica demo
+### [Instagram Replica](https://github.com/Brlaney/instagram-replica) Demo
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/64326462/136578530-f9e7d8b6-a6c1-43d8-ba48-17d21dfbc595.png" alt="instagram-replica-user-profile"  align="center" />
@@ -262,15 +147,14 @@
 </div>
 
 </br>
-</br>
 
-## Connect with me
+## Connect With Me
 
 * Email: <brlaney@outlook.com>
 * Twitter: [brendan_webdev](https://twitter.com/Brendan_webdev)
 * Instagram: [brlaney94](https://www.instagram.com/brlaney94/)
 
-## GitHub stats
+## GitHub Stats
 
 ![Brlaney's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=brlaney&theme=tokyonight&show_icons=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brlaney&theme=tokyonight&layout=compact)]()
