@@ -10,7 +10,7 @@
 # Table Of Contents
 
 - [Project Demos](#project-demos)
-  - [Mtrx Demo](#mtrx)
+  - [Mtrx](#mtrx)
   - [Mui-dash](#mui-dash)
   - [Instagram-replica](#instagram-replica)
 - [Connect with me](#connect-with-me)
@@ -20,7 +20,7 @@
 
 ## Project Demos
 
-### [Mtrx](https://github.com/Brlaney/mtrx) Demo
+### [Mtrx](https://github.com/Brlaney/mtrx)
 
 
 </br>
@@ -72,7 +72,7 @@
 
 </br>
 
-### [Mui-dash](https://github.com/Brlaney/mui-dash) Demo
+### [Mui-dash](https://github.com/Brlaney/mui-dash)
 
 </br>
 
@@ -139,7 +139,7 @@
 
 </br>
 
-### [Instagram Replica](https://github.com/Brlaney/instagram-replica) Demo
+### [Instagram Replica](https://github.com/Brlaney/instagram-replica)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/64326462/136578530-f9e7d8b6-a6c1-43d8-ba48-17d21dfbc595.png" alt="instagram-replica-user-profile"  align="center" />
