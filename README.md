@@ -10,6 +10,7 @@
 # Table Of Contents
 
 - [Project Demos](#project-demos)
+  - [Next-ts](#next-ts)
   - [Mtrx](#mtrx)
   - [Mui-dash](#mui-dash)
   - [Instagram-replica](#instagram-replica)
@@ -19,6 +20,35 @@
 </br>
 
 ## Project Demos
+
+### [Next-ts](https://github.com/Brlaney/next-ts)
+
+
+</br>
+
+<div align="center">
+  <h4><b>Carousel</b></h4>
+  <img src="https://user-images.githubusercontent.com/64326462/159073335-3a099f42-7da1-41d8-9c96-012bd2b75b77.gif" alt="react-carousel" />
+</div>
+
+</br>
+</br>
+
+<div align="center">
+  <h4><b>Chart.js Example 1.</b></h4>
+  <img src="https://user-images.githubusercontent.com/64326462/159091526-983ed80e-2d99-4bd8-988c-d9b1a415b77c.gif" alt="react-chartjs-1" />
+</div>
+
+</br>
+</br>
+
+<div align="center">
+  <h4><b>Chart.js Example 2.</b></h4>
+  <img src="https://user-images.githubusercontent.com/64326462/159091639-15b8dc09-722d-4ddb-b04e-18423b4f3e25.gif" alt="react-chartjs-2" />
+</div>
+
+</br>
+</br>
 
 ### [Mtrx](https://github.com/Brlaney/mtrx)
 
